@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <!-- Header -->
+  <!-- CSS -->
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=0" name="viewport"/>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500;600;800;900&amp;family=Poppins:wght@400;600;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://www.vidyalankar.org/assets/css/4.5.0.bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://www.vidyalankar.org/assets/css/dptheme.css" rel="stylesheet"/>
+  <link href="https://www.vidyalankar.org/assets/css/hamburger.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <link href="https://www.vidyalankar.org/assets/img/logo.png" rel="icon" type="image/png"/>
+  <!-- Webmasters - Vidyalankar -->
+  <meta content="_iJid45uQItFv79MvuVyJ25r-pLtPdSGROUxoZkoGGY" name="google-site-verification"/>
+  <meta content="2BF19C67B1F94CFDB24D480C91AF33C1" name="msvalidate.01"/>
+  <!-- Google Analytics - Vidyalankar -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-89574696-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+                        function gtag() {
+                                dataLayer.push(arguments);
+                        }
+                        gtag("js", new Date());
+                        gtag("config", "UA-89574696-1");
+  </script>
+  <!-- Google Tag Manager - Vidyalankar -->
+  <script async="">
+   !(function (e, t, a, n) {
+                                (e[n] = e[n] || []), e[n].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                                var g = t.getElementsByTagName(a)[0],
+                                        m = t.createElement(a);
+                                (m.async = !0), (m.src = "https://www.googletagmanager.com/gtm.js?id=GTM-WCVJ6RG"), g.parentNode.insertBefore(m, g);
+                        })(window, document, "script", "dataLayer");
+  </script>
+  <!-- Google Tag Manager - Agency -->
+  <script async="">
+   !(function (e, t, a, n) {
+                                (e[n] = e[n] || []), e[n].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                                var g = t.getElementsByTagName(a)[0],
+                                        m = t.createElement(a);
+                                (m.async = !0), (m.src = "https://www.googletagmanager.com/gtm.js?id=GTM-K79W5S4"), g.parentNode.insertBefore(m, g);
+                        })(window, document, "script", "dataLayer");
+  </script>
+  <!-- Header -->
+  <title>
+   404 Error Pge
+  </title>
+  <link href="https://www.vidyalankar.org/assets/img/favicon.png" rel="icon" type="image/png"/>
+  <!-- CSS -->
+  <link href="https://www.vidyalankar.org/assets/css/dptheme.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <meta content="noindex" name="robots"/>
+ </head>
+ <body>
+  <!-- Navigation -->
+  <div class="topbar">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-6 col-lg-6 col-xl-6">
+      <p>
+       Be Sure With
+       <b>
+        Vidyalankar
+       </b>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-6 col-xl-6 text-right">
+      <nav class="navbar navbar-expand-md navbar-light">
+       <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon">
+        </span>
+       </button>
+       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto py-4 py-md-0">
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 mt-ng">
+          <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" onclick="$('#closeMenu').toggle();" role="button">
+           Science
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="navigation-wrap start-header start-style">
+   <div class="container nv-back">
+    <div class="row">
+     <div class="col-12">
+      <nav class="navbar navbar-expand-md navbar-light">
+       <a class="navbar-brand" href="https://www.vidyalankar.org/">
+        <img src="https://www.vidyalankar.org/assets/img/logo.png"/>
+       </a>
+       <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon">
+        </span>
+       </button>
+       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto py-4 py-md-0">
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/foundation/">
+           Foundation
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/bscit/">
+           B.Sc.(IT)
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/cet/">
+           MHT-CET
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/iitjee/">
+           IIT-JEE
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/neet/">
+           NEET
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/engineering/">
+           Degree
+          </a>
+         </li>
+         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+          <a class="nav-link" href="https://www.vidyalankar.org/gate/">
+           GATE
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Navigation -->
+  <!-- Home -->
+  <section id="Home">
+   <div class="thanks-img">
+    <div class="text-center thanks-txt">
+     <h1 align="center" style="font-size: 120px !important;">
+      404
+     </h1>
+     <h4 align="center">
+      SORRY, PAGE NOT FOUND
+     </h4>
+    </div>
+   </div>
+  </section>
+  <!-- Home -->
+  <button id="ScrolltoTop" onclick="topFunction()" title="Go to top">
+   <i class="fa fa-chevron-up">
+   </i>
+  </button>
+  <div class="cta-100">
+   <a class="cta-50 ctalg" href="https://wa.me/917045018539">
+    <i class="fa fa-whatsapp">
+    </i>
+    WhatsApp
+   </a>
+   <a class="cta-50 ctadk" data-target="#myForm" data-toggle="modal" href="#">
+    <i class="fa fa-calendar">
+    </i>
+    Get Details
+   </a>
+  </div>
+  <script src="https://www.vidyalankar.org/assets/js/3.5.1.jquery.slim.min.js">
+  </script>
+  <script src="https://www.vidyalankar.org/assets/js/1.16.0.popper.min.js">
+  </script>
+  <script src="https://www.vidyalankar.org/assets/js/4.5.0.bootstrap.min.js">
+  </script>
+  <script src="https://www.vidyalankar.org/assets/js/header.js">
+  </script>
+  <script src="https://www.vidyalankar.org/assets/js/ScrollTop.js">
+  </script>
+  <script src="https://www.vidyalankar.org/assets/js/tabs.js">
+  </script>
+ </body>
+</html>
